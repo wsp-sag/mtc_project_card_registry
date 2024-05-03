@@ -1,46 +1,46 @@
 project: BART_2020_Fremont_to_Berryessa_add_rail_link
 tags:
-- 'add transit link'
+- add transit link
 dependencies: ''
 changes:
 - category: Add New Roadway
   links:
-  - model_link_id: 2700000
+  - model_link_id: 2700012
     rail_only: 1
     transit_access: 1.0
     A: 2625947
     B: 2900024
-  - model_link_id: 2700000
+  - model_link_id: 2700013
     rail_only: 1
     transit_access: 1.0
     A: 2900024
     B: 2625947
-  - model_link_id: 2700000
+  - model_link_id: 2700014
     rail_only: 1
     transit_access: 1.0
     A: 2900024
     B: 2900025
-  - model_link_id: 2700000
+  - model_link_id: 2700015
     rail_only: 1
     transit_access: 1.0
     A: 2900025
     B: 2900024
-  - model_link_id: 2700000
+  - model_link_id: 2700016
     rail_only: 1
     transit_access: 1.0
     A: 2900022
     B: 2900025
-  - model_link_id: 2700000
+  - model_link_id: 2700017
     rail_only: 1
     transit_access: 1.0
     A: 2900025
     B: 2900022
-  - model_link_id: 2700000
+  - model_link_id: 2700018
     rail_only: 1
     transit_access: 1.0
     A: 2900022
     B: 2900023
-  - model_link_id: 2700000
+  - model_link_id: 2700019
     rail_only: 1
     transit_access: 1.0
     A: 2900023
@@ -62,4 +62,3 @@ changes:
     rail_only: 1
     Y: 37.502231030742685
     model_node_id: 2900025
-valid: false
