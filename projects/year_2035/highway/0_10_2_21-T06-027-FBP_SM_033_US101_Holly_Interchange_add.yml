@@ -12,7 +12,7 @@ changes:
     segment_id: 0
     bike_access: 1
     tollseg: 0
-    model_link_id: 2700000
+    model_link_id: 2700040
     managed: 0
     transit_access: 0.0
     bus_only: 0
@@ -28,7 +28,7 @@ changes:
     segment_id: 0
     bike_access: 1
     tollseg: 0
-    model_link_id: 2700000
+    model_link_id: 2700041
     managed: 0
     transit_access: 0.0
     bus_only: 0
@@ -44,7 +44,7 @@ changes:
     segment_id: 0
     bike_access: 1
     tollseg: 0
-    model_link_id: 2700000
+    model_link_id: 2700042
     managed: 0
     transit_access: 0.0
     bus_only: 0
@@ -61,7 +61,7 @@ changes:
     segment_id: 0
     bike_access: 1
     tollseg: 0
-    model_link_id: 2700000
+    model_link_id: 2700043
     managed: 0
     transit_access: 0.0
     bus_only: 0
@@ -78,7 +78,7 @@ changes:
     segment_id: 0
     bike_access: 1
     tollseg: 0
-    model_link_id: 2700000
+    model_link_id: 2700044
     managed: 0
     transit_access: 0.0
     bus_only: 0
@@ -93,4 +93,3 @@ changes:
   - Y: 37.5140023654003
     X: -122.25573644151716
     model_node_id: 2900033
-valid: false

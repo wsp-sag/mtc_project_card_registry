@@ -15,7 +15,7 @@ changes:
     lanes: 1.0
     shstGeometryId: ''
     county: San Mateo
-    model_link_id: 2700000
+    model_link_id: 2700006
     A: 1506908
     B: 2900001
   - bike_access: 1
@@ -29,7 +29,7 @@ changes:
     lanes: 1.0
     shstGeometryId: ''
     county: San Mateo
-    model_link_id: 2700000
+    model_link_id: 2700007
     A: 2900000
     B: 1522697
   - bike_access: 0
@@ -43,7 +43,7 @@ changes:
     lanes: 1
     shstGeometryId: null
     county: San Mateo
-    model_link_id: 2700000
+    model_link_id: 2700008
     A: 2900001
     B: 1512814
   - bike_access: 0
@@ -57,7 +57,7 @@ changes:
     lanes: 1
     shstGeometryId: null
     county: San Mateo
-    model_link_id: 2700000
+    model_link_id: 2700009
     A: 1545450
     B: 2900000
   nodes:
@@ -75,4 +75,3 @@ changes:
     rail_only: 0
     X: -122.32815674871479
     model_node_id: 2900001
-valid: false

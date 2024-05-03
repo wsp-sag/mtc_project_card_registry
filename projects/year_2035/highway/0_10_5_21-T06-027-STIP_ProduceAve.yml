@@ -12,7 +12,7 @@ changes:
     segment_id: 0
     walk_access: 1
     bike_access: 1
-    model_link_id: 2700000
+    model_link_id: 2700022
     managed: 0
     transit_access: 0.0
     bus_only: 0
@@ -29,7 +29,7 @@ changes:
     segment_id: 0
     walk_access: 1
     bike_access: 1
-    model_link_id: 2700000
+    model_link_id: 2700023
     managed: 0
     transit_access: 0.0
     bus_only: 0
@@ -46,7 +46,7 @@ changes:
     segment_id: 0
     walk_access: 1
     bike_access: 1
-    model_link_id: 2700000
+    model_link_id: 2700024
     managed: 0
     transit_access: 0.0
     bus_only: 0
@@ -63,7 +63,7 @@ changes:
     segment_id: 0
     walk_access: 1
     bike_access: 1
-    model_link_id: 2700000
+    model_link_id: 2700025
     managed: 0
     transit_access: 0.0
     bus_only: 0
@@ -72,4 +72,3 @@ changes:
     drive_access: 1
     A: 1546609
     B: 1508946
-valid: false

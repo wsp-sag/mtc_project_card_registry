@@ -1,41 +1,35 @@
 project: Add EBART Rail links
 tags:
-- 'add transit link'
+- add transit link
 dependencies: ''
 changes:
 - category: Add New Roadway
   nodes:
-  # Pittsburg Center
   - model_node_id: 3097287
     rail_only: 1
-    X: -121.88909847052751445
-    Y: 38.01685826520999001
-  # Antioch
+    X: -121.88909847052751
+    Y: 38.01685826520999
   - model_node_id: 3097288
     rail_only: 1
-    X: -121.78043116127834367
-    Y: 37.99541052006741637
+    X: -121.78043116127834
+    Y: 37.995410520067416
   links:
-  # EB Bay Point to Pittsburg Center
-  - model_link_id: 2700000
+  - model_link_id: 2700036
     rail_only: 1
     transit_access: 1
     A: 3097273
     B: 3097287
-  # EB Pittsburg Center to Antioch
-  - model_link_id: 2700000
+  - model_link_id: 2700037
     rail_only: 1
     transit_access: 1
     A: 3097287
     B: 3097288
-  # WB Antioch to Pittsburg Center
-  - model_link_id: 2700000
+  - model_link_id: 2700038
     rail_only: 1
     transit_access: 1
     A: 3097288
     B: 3097287
-  # WB Pittsburg Center to Bay Point
-  - model_link_id: 2700000
+  - model_link_id: 2700039
     rail_only: 1
     transit_access: 1
     A: 3097287
