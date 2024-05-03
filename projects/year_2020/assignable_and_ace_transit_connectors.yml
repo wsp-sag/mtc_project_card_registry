@@ -43,7 +43,7 @@ changes:
     lanes: 1
   - A: 5256617
     B: 2625972
-    model_link_id: 3315457
+    model_link_id: 3500000
     drive_access: 0
     bike_access: 0
     walk_access: 1

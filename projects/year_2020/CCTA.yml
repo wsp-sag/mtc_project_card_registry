@@ -26,7 +26,7 @@ changes:
     lanes: 2
   - A: 3034657
     B: 3059522
-    model_link_id: 4075025
+    model_link_id: 4900001
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -36,7 +36,7 @@ changes:
     lanes: 2
   - A: 3044090
     B: 3078980
-    model_link_id: 4119786
+    model_link_id: 4900001
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -56,7 +56,7 @@ changes:
     lanes: 1
   - A: 3093187
     B: 3034657
-    model_link_id: 4122328
+    model_link_id: 4900001
     drive_access: 1
     bike_access: 1
     walk_access: 1
