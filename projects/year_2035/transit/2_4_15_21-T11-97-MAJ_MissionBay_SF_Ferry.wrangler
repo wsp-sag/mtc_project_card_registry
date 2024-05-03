@@ -39,7 +39,7 @@ add_trips_df = pd.DataFrame(
 self.feed.trips = self.feed.trips.append(add_trips_df, sort = False, ignore_index = True)
 
 # stop
-stop_model_node_id_list = [1028039, 9550796]
+stop_model_node_id_list = [1028039, 2900005]
 stop_id_xref_dict = self.feed.stops.set_index("model_node_id")["stop_id"].to_dict()
 stop_id_xref_dict = {int(key): int(value) for key, value in stop_id_xref_dict.items()}
 model_node_coord_dict = self.road_net.nodes_df.set_index('model_node_id')[['X', 'Y']].apply(tuple, axis=1).to_dict()
@@ -95,7 +95,7 @@ self.feed.stop_times = self.feed.stop_times.append(add_stop_times_df, sort = Fal
 add_shapes_df = pd.DataFrame(
   {"shape_id" : max_shape_id+1,
    "shape_pt_sequence" : [1,2],
-   "shape_model_node_id" : [1028039, 9550796]
+   "shape_model_node_id" : [1028039, 2900005]
   }
 )
 self.feed.shapes = self.feed.shapes.append(add_shapes_df, sort = False, ignore_index = True)
@@ -125,7 +125,7 @@ add_trips_df = pd.DataFrame(
 self.feed.trips = self.feed.trips.append(add_trips_df, sort = False, ignore_index = True)
 
 # stop
-stop_model_node_id_list = [9550796,1028039]
+stop_model_node_id_list = [2900005,1028039]
 stop_id_list = [] # used to build stop_time
 stop_id_new_list = [] # used to build stop
 model_node_id_list = [] # used to build stop
@@ -177,7 +177,7 @@ self.feed.stop_times = self.feed.stop_times.append(add_stop_times_df, sort = Fal
 add_shapes_df = pd.DataFrame(
   {"shape_id" : max_shape_id+2,
    "shape_pt_sequence" : [1,2],
-   "shape_model_node_id" : [9550796,1028039]
+   "shape_model_node_id" : [2900005,1028039]
   }
 )
 self.feed.shapes = self.feed.shapes.append(add_shapes_df, sort = False, ignore_index = True)

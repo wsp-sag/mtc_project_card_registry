@@ -8,14 +8,14 @@ changes:
     transit_access: 1.0
     bus_only: 0
     A: 1028039
-    B: 9550796
+    B: 2900005
   - rail_only: 0
     transit_access: 1.0
     bus_only: 0
-    A: 9550796
+    A: 2900005
     B: 1028039
   nodes:
   - Y: 37.77333018240103
     X: -122.38188093832103
-    model_node_id: 9550796
+    model_node_id: 2900005
 valid: false

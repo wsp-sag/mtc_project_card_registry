@@ -8,13 +8,13 @@ changes:
   - model_link_id: 0
     transit_access: 1.0
     A: 1028039
-    B: 9550778
+    B: 2900004
   - model_link_id: 0
     transit_access: 1.0
-    A: 9550778
+    A: 2900004
     B: 1028039
   nodes:
   - Y: 37.86515148146898
     X: -122.3082882283559
-    model_node_id: 9550778
+    model_node_id: 2900004
 valid: false

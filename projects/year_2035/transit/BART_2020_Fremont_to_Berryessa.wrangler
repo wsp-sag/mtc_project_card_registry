@@ -33,10 +33,10 @@ shape_model_node_id_list = [3097282,
                             2625949,
                             2625948,
                             2625947,
-                            9550798,
-                            9550799,
-                            9550800,
-                            9550801]
+                            2900024,
+                            2900025,
+                            2900022,
+                            2900023]
 shape_pt_sequence_list = list(range(1, len(shape_model_node_id_list) + 1))
 add_shapes_df = pd.DataFrame(
   {"shape_id" : shape_id,
@@ -65,9 +65,9 @@ stop_model_node_id_list = [3097282,
                            2625949,
                            2625948,
                            2625947,
-                           9550799,
-                           9550800,
-                           9550801]
+                           2900025,
+                           2900022,
+                           2900023]
 stop_id_xref_dict = self.feed.stops.set_index("model_node_id")["stop_id"].to_dict()
 stop_id_xref_dict = {int(key): int(value) for key, value in stop_id_xref_dict.items()}
 model_node_coord_dict = self.road_net.nodes_df.set_index('model_node_id')[['X', 'Y']].apply(tuple, axis=1).to_dict()
@@ -149,10 +149,10 @@ trip_id_list = [5780,5876,6234,6474,6644]
 # delete the old records
 self.feed.shapes = self.feed.shapes[self.feed.shapes['shape_id'].astype(int)!=shape_id]
 # add new shape
-shape_model_node_id_list = [9550801,
-                            9550800,
-                            9550799,
-                            9550798,
+shape_model_node_id_list = [2900023,
+                            2900022,
+                            2900025,
+                            2900024,
                             2625947,
                             2625948,
                             2625949,
@@ -181,9 +181,9 @@ add_shapes_df = pd.DataFrame(
 self.feed.shapes = self.feed.shapes.append(add_shapes_df, sort = False, ignore_index = True)
 
 # stop
-stop_model_node_id_list = [9550801,
-                           9550800,
-                           9550799,
+stop_model_node_id_list = [2900023,
+                           2900022,
+                           2900025,
                            2625947,
                            2625948,
                            2625949,
@@ -302,10 +302,10 @@ shape_model_node_id_list = [1556363,
                             2625949,
                             2625948,
                             2625947,
-                            9550798,
-                            9550799,
-                            9550800,
-                            9550801]
+                            2900024,
+                            2900025,
+                            2900022,
+                            2900023]
 shape_pt_sequence_list = list(range(1, len(shape_model_node_id_list) + 1))
 add_shapes_df = pd.DataFrame(
   {"shape_id" : shape_id,
@@ -335,9 +335,9 @@ stop_model_node_id_list = [1556363,
                             2625949,
                             2625948,
                             2625947,
-                            9550799,
-                            9550800,
-                            9550801]
+                            2900025,
+                            2900022,
+                            2900023]
 stop_id_xref_dict = self.feed.stops.set_index("model_node_id")["stop_id"].to_dict()
 stop_id_xref_dict = {int(key): int(value) for key, value in stop_id_xref_dict.items()}
 model_node_coord_dict = self.road_net.nodes_df.set_index('model_node_id')[['X', 'Y']].apply(tuple, axis=1).to_dict()
@@ -420,10 +420,10 @@ trip_id_list = [5772,5820,6178,6418]
 # delete the old records
 self.feed.shapes = self.feed.shapes[self.feed.shapes['shape_id'].astype(int)!=shape_id]
 # add new shape
-shape_model_node_id_list = [9550801,
-                            9550800,
-                            9550799,
-                            9550798,
+shape_model_node_id_list = [2900023,
+                            2900022,
+                            2900025,
+                            2900024,
                             2625947,
                             2625948,
                             2625949,
@@ -453,9 +453,9 @@ add_shapes_df = pd.DataFrame(
 self.feed.shapes = self.feed.shapes.append(add_shapes_df, sort = False, ignore_index = True)
 
 # stop
-stop_model_node_id_list = [9550801,
-                            9550800,
-                            9550799,
+stop_model_node_id_list = [2900023,
+                            2900022,
+                            2900025,
                             2625947,
                             2625948,
                             2625949,

@@ -40,8 +40,8 @@ self.feed.trips = self.feed.trips.append(add_trips_df, sort = False, ignore_inde
 
 # stop
 stop_model_node_id_list = [2625959, 
-                           9550776, 
-                           9550777,
+                           2900002, 
+                           2900003,
                            5273832]
 stop_id_xref_dict = self.feed.stops.set_index("model_node_id")["stop_id"].to_dict()
 stop_id_xref_dict = {int(key): int(value) for key, value in stop_id_xref_dict.items()}
@@ -98,7 +98,7 @@ self.feed.stop_times = self.feed.stop_times.append(add_stop_times_df, sort = Fal
 add_shapes_df = pd.DataFrame(
   {"shape_id" : max_shape_id+1,
    "shape_pt_sequence" : [1,2,3,4],
-   "shape_model_node_id" : [2625959,9550776,9550777,5273832]
+   "shape_model_node_id" : [2625959,2900002,2900003,5273832]
   }
 )
 self.feed.shapes = self.feed.shapes.append(add_shapes_df, sort = False, ignore_index = True)
@@ -129,8 +129,8 @@ self.feed.trips = self.feed.trips.append(add_trips_df, sort = False, ignore_inde
 
 # stop
 stop_model_node_id_list = [5273832,
-                           9550777,
-                           9550776, 
+                           2900003,
+                           2900002, 
                            2625959]
 stop_id_list = [] # used to build stop_time
 stop_id_new_list = [] # used to build stop
@@ -183,7 +183,7 @@ self.feed.stop_times = self.feed.stop_times.append(add_stop_times_df, sort = Fal
 add_shapes_df = pd.DataFrame(
   {"shape_id" : max_shape_id+2,
    "shape_pt_sequence" : [1,2,3,4],
-   "shape_model_node_id" : [5273832,9550777,9550776,2625959]
+   "shape_model_node_id" : [5273832,2900003,2900002,2625959]
   }
 )
 self.feed.shapes = self.feed.shapes.append(add_shapes_df, sort = False, ignore_index = True)

@@ -16,7 +16,7 @@ changes:
     shstGeometryId: ''
     county: San Mateo
     A: 1506908
-    B: 9550780
+    B: 2900001
   - bike_access: 1
     bus_only: 0
     walk_access: 1
@@ -28,7 +28,7 @@ changes:
     lanes: 1.0
     shstGeometryId: ''
     county: San Mateo
-    A: 9550779
+    A: 2900000
     B: 1522697
   - bike_access: 0
     bus_only: 0
@@ -41,7 +41,7 @@ changes:
     lanes: 1
     shstGeometryId: null
     county: San Mateo
-    A: 9550780
+    A: 2900001
     B: 1512814
   - bike_access: 0
     bus_only: 0
@@ -55,7 +55,7 @@ changes:
     shstGeometryId: null
     county: San Mateo
     A: 1545450
-    B: 9550779
+    B: 2900000
   nodes:
   - bike_access: 0
     drive_access: 0
@@ -63,12 +63,12 @@ changes:
     Y: 37.58468607374194
     rail_only: 0
     X: -122.32914491154384
-    model_node_id: 9550779
+    model_node_id: 2900000
   - bike_access: 0
     drive_access: 0
     walk_access: 0
     Y: 37.58377451378082
     rail_only: 0
     X: -122.32815674871479
-    model_node_id: 9550780
+    model_node_id: 2900001
 valid: false
