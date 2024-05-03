@@ -16,7 +16,7 @@ changes:
   links:
   - A: 2625972
     B: 5256617
-    model_link_id: 3315422
+    model_link_id: 3500000
     drive_access: 0
     bike_access: 0
     walk_access: 1
@@ -25,7 +25,7 @@ changes:
     lanes: 1
   - A: 3097285
     B: 5267161
-    model_link_id: 4237482
+    model_link_id: 3500000
     drive_access: 0
     bike_access: 0
     walk_access: 1
@@ -34,7 +34,7 @@ changes:
     lanes: 1
   - A: 3097286
     B: 5264239
-    model_link_id: 4237483
+    model_link_id: 3500000
     drive_access: 0
     bike_access: 0
     walk_access: 1
@@ -52,7 +52,7 @@ changes:
     lanes: 1
   - A: 5264239
     B: 3097286
-    model_link_id: 4237497
+    model_link_id: 3500000
     drive_access: 0
     bike_access: 0
     walk_access: 1
@@ -61,7 +61,7 @@ changes:
     lanes: 1
   - A: 5267161
     B: 3097285
-    model_link_id: 4237496
+    model_link_id: 3500000
     drive_access: 0
     bike_access: 0
     walk_access: 1
