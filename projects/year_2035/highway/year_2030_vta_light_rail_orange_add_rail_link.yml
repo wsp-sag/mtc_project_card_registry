@@ -1,0 +1,89 @@
+project: Year 2030 Add VTA Orange Light Rail links
+tags:
+- 'add transit link'
+dependencies: ''
+changes:
+- category: Add New Roadway
+  nodes:
+  # Story
+  - model_node_id: 2192949
+    rail_only: 1
+    X: -121.86787579822288
+    Y: 37.35059626052544957
+  # Eastridge Transit Center
+  - model_node_id: 2192950
+    rail_only: 1
+    X: -121.81071401271199761
+    Y: 37.32751474112139078
+  links:
+  # EB Alum Rock to Story
+  - model_link_id: 0
+    rail_only: 1
+    transit_access: 1
+    A: 2192865
+    B: 2192949
+
+  # WB Story to Alum Rock
+  - model_link_id: 0
+    rail_only: 1
+    transit_access: 1
+    A: 2192949
+    B: 2192881
+  # EB Story to Eastridge
+  - model_link_id: 0
+    rail_only: 1
+    transit_access: 1
+    A: 2192949
+    B: 2192950
+  # WB Eastridge to Story
+  - model_link_id: 0
+    rail_only: 1
+    transit_access: 1
+    A: 2192950
+    B: 2192949
+
+  # EB Champion to Baypointe
+  - model_link_id: 0
+    rail_only: 1
+    transit_access: 1
+    A: 2192937
+    B: 2192855
+
+  # WB Baypointe to Champion
+  - model_link_id: 0
+    rail_only: 1
+    transit_access: 1
+    A: 2192891
+    B: 2192908
+
+  # walk to rail links for node 2192949
+  - model_link_id: 0
+    walk_access: 1
+    drive_access: 0
+    bike_access: 0
+    lanes: 1
+    A: 2192949
+    B: 2120280
+  - model_link_id: 0
+    walk_access: 1
+    drive_access: 0
+    bike_access: 0
+    lanes: 1
+    A: 2120280
+    B: 2192949
+
+  # walk to rail links for node 2192950
+  - model_link_id: 0
+    walk_access: 1
+    drive_access: 0
+    bike_access: 0
+    lanes: 1
+    A: 2192950
+    B: 2147956
+  - model_link_id: 0
+    walk_access: 1
+    drive_access: 0
+    bike_access: 0
+    lanes: 1
+    A: 2147956
+    B: 2192950
