@@ -5,11 +5,11 @@ dependencies: ''
 changes:
 - category: Add New Roadway
   links:
-  - model_link_id: 1
+  - model_link_id: 2700000
     transit_access: 1.0
     A: 1028039
     B: 2900004
-  - model_link_id: 1
+  - model_link_id: 2700000
     transit_access: 1.0
     A: 2900004
     B: 1028039

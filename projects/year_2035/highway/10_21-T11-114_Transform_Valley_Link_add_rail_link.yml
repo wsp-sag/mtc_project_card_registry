@@ -5,32 +5,32 @@ dependencies: ''
 changes:
 - category: Add New Roadway
   links:
-  - model_link_id: 1
+  - model_link_id: 2700000
     rail_only: 1
     transit_access: 1.0
     A: 2625959
     B: 2900002
-  - model_link_id: 1
+  - model_link_id: 2700000
     rail_only: 1
     transit_access: 1.0
     A: 2900002
     B: 2625959
-  - model_link_id: 1
+  - model_link_id: 2700000
     rail_only: 1
     transit_access: 1.0
     A: 2900002
     B: 2900003
-  - model_link_id: 1
+  - model_link_id: 2700000
     rail_only: 1
     transit_access: 1.0
     A: 2900003
     B: 2900002
-  - model_link_id: 1
+  - model_link_id: 2700000
     rail_only: 1
     transit_access: 1.0
     A: 2900003
     B: 5273832
-  - model_link_id: 1
+  - model_link_id: 2700000
     rail_only: 1
     transit_access: 1.0
     A: 5273832
