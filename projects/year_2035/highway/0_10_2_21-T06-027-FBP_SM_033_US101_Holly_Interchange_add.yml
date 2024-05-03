@@ -12,14 +12,14 @@ changes:
     segment_id: 0
     bike_access: 1
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     managed: 0
     transit_access: 0.0
     bus_only: 0
     tollbooth: 0
     drive_access: 1
-    A: 9550774
-    B: 9550775
+    A: 2900032
+    B: 2900033
   - lanes: 7.0
     walk_access: 1
     shstGeometryId: ''
@@ -28,13 +28,13 @@ changes:
     segment_id: 0
     bike_access: 1
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     managed: 0
     transit_access: 0.0
     bus_only: 0
     tollbooth: 0
     drive_access: 1
-    A: 9550774
+    A: 2900032
     B: 1538956
   - lanes: 7.0
     walk_access: 1
@@ -44,13 +44,13 @@ changes:
     segment_id: 0
     bike_access: 1
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     managed: 0
     transit_access: 0.0
     bus_only: 0
     tollbooth: 0
     drive_access: 1
-    A: 9550775
+    A: 2900033
     B: 1537738
   - ft: 6
     lanes: 7.0
@@ -61,14 +61,14 @@ changes:
     segment_id: 0
     bike_access: 1
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     managed: 0
     transit_access: 0.0
     bus_only: 0
     tollbooth: 0
     drive_access: 1
     A: 1537738
-    B: 9550775
+    B: 2900033
   - ft: 6
     lanes: 7.0
     walk_access: 1
@@ -78,19 +78,19 @@ changes:
     segment_id: 0
     bike_access: 1
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     managed: 0
     transit_access: 0.0
     bus_only: 0
     tollbooth: 0
     drive_access: 1
     A: 1538956
-    B: 9550774
+    B: 2900032
   nodes:
   - Y: 37.5142131492409
     X: -122.25568272865664
-    model_node_id: 9550774
+    model_node_id: 2900032
   - Y: 37.5140023654003
     X: -122.25573644151716
-    model_node_id: 9550775
+    model_node_id: 2900033
 valid: false

@@ -12,14 +12,14 @@ changes:
     segment_id: 0
     bike_access: 0
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     managed: 0
     transit_access: 0.0
     bus_only: 0
     tollbooth: 0
     drive_access: 1
     A: 1520701
-    B: 9550772
+    B: 2900030
   - lanes: 7.0
     walk_access: 0
     shstGeometryId: ''
@@ -28,13 +28,13 @@ changes:
     segment_id: 0
     bike_access: 0
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     managed: 0
     transit_access: 0.0
     bus_only: 0
     tollbooth: 0
     drive_access: 1
-    A: 9550772
+    A: 2900030
     B: 1520701
   - lanes: 1.0
     walk_access: 0
@@ -44,14 +44,14 @@ changes:
     segment_id: 0
     bike_access: 0
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     managed: 0
     transit_access: 0.0
     bus_only: 0
     tollbooth: 0
     drive_access: 1
-    A: 9550772
-    B: 9550773
+    A: 2900030
+    B: 2900031
   - lanes: 7.0
     walk_access: 0
     shstGeometryId: ''
@@ -60,13 +60,13 @@ changes:
     segment_id: 0
     bike_access: 0
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     managed: 0
     transit_access: 0.0
     bus_only: 0
     tollbooth: 0
     drive_access: 1
-    A: 9550773
+    A: 2900031
     B: 1535695
   - lanes: 7.0
     walk_access: 0
@@ -76,21 +76,21 @@ changes:
     segment_id: 0
     bike_access: 0
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     managed: 0
     transit_access: 0.0
     bus_only: 0
     tollbooth: 0
     drive_access: 1
     A: 1535695
-    B: 9550773
+    B: 2900031
   nodes:
   - Y: 37.553690976086145
     X: -122.29460761210197
-    model_node_id: 9550772
+    model_node_id: 2900030
   - Y: 37.55050489067179
     X: -122.2937433962126
-    model_node_id: 9550773
+    model_node_id: 2900031
 - category: Roadway Property Change
   facility:
     link:

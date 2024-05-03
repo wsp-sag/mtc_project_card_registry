@@ -17,25 +17,25 @@ changes:
     Y: 37.33609766686002729
   links:
   # NB Convention Center to San Antonio
-  - model_link_id: 0
+  - model_link_id: 1
     rail_only: 1
     transit_access: 1
     A: 2192842
     B: 2192951
   # NB San Antonio to Santa Clara
-  - model_link_id: 0
+  - model_link_id: 1
     rail_only: 1
     transit_access: 1
     A: 2192951
     B: 2192843
   # SB St. James to Santa Clara
-  - model_link_id: 0
+  - model_link_id: 1
     rail_only: 1
     transit_access: 1
     A: 2192868
     B: 2192952
   # SB Santa Clara to San Antonio
-  - model_link_id: 0
+  - model_link_id: 1
     rail_only: 1
     transit_access: 1
     A: 2192952

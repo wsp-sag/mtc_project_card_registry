@@ -13,7 +13,7 @@ changes:
     assignable: 1
     segment_id: 0
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     transit_access: 0.0
     bus_only: 0
     managed: 0
@@ -30,7 +30,7 @@ changes:
     assignable: 1
     segment_id: 0
     tollseg: 0
-    model_link_id: 0
+    model_link_id: 1
     transit_access: 0.0
     bus_only: 0
     managed: 0

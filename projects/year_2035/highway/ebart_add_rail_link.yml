@@ -17,25 +17,25 @@ changes:
     Y: 37.99541052006741637
   links:
   # EB Bay Point to Pittsburg Center
-  - model_link_id: 0
+  - model_link_id: 1
     rail_only: 1
     transit_access: 1
     A: 3097273
     B: 3097287
   # EB Pittsburg Center to Antioch
-  - model_link_id: 0
+  - model_link_id: 1
     rail_only: 1
     transit_access: 1
     A: 3097287
     B: 3097288
   # WB Antioch to Pittsburg Center
-  - model_link_id: 0
+  - model_link_id: 1
     rail_only: 1
     transit_access: 1
     A: 3097288
     B: 3097287
   # WB Pittsburg Center to Bay Point
-  - model_link_id: 0
+  - model_link_id: 1
     rail_only: 1
     transit_access: 1
     A: 3097287
