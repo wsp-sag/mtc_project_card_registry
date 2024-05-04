@@ -1,5 +1,5 @@
 project: dublin_blvd_n_canyons_pkwy_extension
-tags: 
+tags:
 - Year 2030
 dependencies: ''
 changes:
@@ -11,10 +11,10 @@ changes:
     drive_access: 1
     name: North Parkway Extension
     roadway: motorway
-    shstGeometryId: 
+    shstGeometryId: null
     walk_access: 1
     county: Alameda
-    model_link_id: 4900001
+    model_link_id: 4900006
     rail_only: 0
     ft: 6
     assignable: 1
@@ -44,10 +44,10 @@ changes:
     drive_access: 1
     name: North Parkway Extension
     roadway: motorway
-    shstGeometryId: 
+    shstGeometryId: null
     walk_access: 1
     county: Alameda
-    model_link_id: 4900001
+    model_link_id: 4900007
     rail_only: 0
     ft: 6
     assignable: 1

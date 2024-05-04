@@ -14,7 +14,7 @@ changes:
     shstGeometryId: '0'
     walk_access: 1
     county: Contra Costa
-    model_link_id: 4900001
+    model_link_id: 4900008
     rail_only: 0
     ft: 4
     assignable: 1
@@ -78,7 +78,7 @@ changes:
     shstGeometryId: '0'
     walk_access: 1
     county: Alameda
-    model_link_id: 4900001
+    model_link_id: 4900009
     rail_only: 0
     ft: 4
     assignable: 1
@@ -102,4 +102,3 @@ changes:
     useclass_PM: 0
     useclass_EV: 0
     has_transit: 0
-valid: false

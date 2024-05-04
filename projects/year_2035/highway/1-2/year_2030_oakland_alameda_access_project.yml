@@ -1,42 +1,42 @@
-project:  Oakland/Alameda Access Project
-tags: 
+project: Oakland/Alameda Access Project
+tags:
 - Year 2030
 - ACTC
-dependencies: ''  
-changes:            
-- category: Add New Roadway   
-  links:                      
+dependencies: ''
+changes:
+- category: Add New Roadway
+  links:
   - A: 2559677
     B: 2910000
-    model_link_id: 4900001
+    model_link_id: 4900010
     drive_access: 1
     assignable: 1
     lanes: 1
-    walk_access: 1         
+    walk_access: 1
   - A: 2910000
     B: 2539743
-    model_link_id: 4900001
+    model_link_id: 4900011
     drive_access: 1
     assignable: 1
     lanes: 1
     walk_access: 1
   - A: 2539743
     B: 2574506
-    model_link_id: 4900001
+    model_link_id: 4900012
     drive_access: 1
     assignable: 1
     lanes: 1
     walk_access: 1
   - A: 2600336
     B: 2581229
-    model_link_id: 4900001
+    model_link_id: 4900013
     drive_access: 1
     assignable: 1
     lanes: 2
     walk_access: 0
-  - A: 2528635            
+  - A: 2528635
     B: 2557352
-    model_link_id: 4900001 
+    model_link_id: 4900014
     drive_access: 1
     bike_access: 1
     assignable: 1
@@ -45,7 +45,7 @@ changes:
   nodes:
   - drive_access: 1
     walk_access: 1
-    Y: 37.796310
+    Y: 37.79631
     rail_only: 0
     X: -122.271524
     model_node_id: 2910000
@@ -66,5 +66,4 @@ changes:
       - 3068992
   properties:
   - property: lanes
-    set: 1               
-valid: false  
+    set: 1
