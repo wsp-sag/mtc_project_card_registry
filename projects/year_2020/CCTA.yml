@@ -6,12 +6,12 @@ changes:
 - category: Roadway Deletion
   links:
     model_link_id:
-      - 3045808
-      - 3258522
-      - 4119786
-      - 4034199
-      - 4122328
-      - 4075025
+    - 3045808
+    - 3258522
+    - 4119786
+    - 4034199
+    - 4122328
+    - 4075025
 - category: Add New Roadway
   links:
   - A: 3006457
@@ -21,47 +21,47 @@ changes:
     bike_access: 1
     walk_access: 1
     ft: 4
-    cntype: 'TANA'
+    cntype: TANA
     assignable: 1
     lanes: 2
   - A: 3034657
     B: 3059522
-    model_link_id: 4900001
+    model_link_id: 4900002
     drive_access: 1
     bike_access: 1
     walk_access: 1
     ft: 4
-    cntype: 'TANA'
+    cntype: TANA
     assignable: 1
     lanes: 2
   - A: 3044090
     B: 3078980
-    model_link_id: 4900001
+    model_link_id: 4900003
     drive_access: 1
     bike_access: 1
     walk_access: 1
     ft: 4
-    cntype: 'TANA'
+    cntype: TANA
     assignable: 1
     lanes: 1
   - A: 3078980
     B: 3031452
-    model_link_id: 4900001
+    model_link_id: 4900004
     drive_access: 1
     bike_access: 1
     walk_access: 1
     ft: 4
-    cntype: 'TANA'
+    cntype: TANA
     assignable: 1
     lanes: 1
   - A: 3093187
     B: 3034657
-    model_link_id: 4900001
+    model_link_id: 4900005
     drive_access: 1
     bike_access: 1
     walk_access: 1
     ft: 4
-    cntype: 'TANA'
+    cntype: TANA
     assignable: 1
     lanes: 2
 - category: Roadway Property Change

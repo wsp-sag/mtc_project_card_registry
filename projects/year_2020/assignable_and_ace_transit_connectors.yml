@@ -6,12 +6,12 @@ changes:
 - category: Roadway Deletion
   links:
     model_link_id:
-      - 4237483
-      - 4237497
-      - 4237482
-      - 4237496
-      - 3315422
-      - 3315457
+    - 4237483
+    - 4237497
+    - 4237482
+    - 4237496
+    - 3315422
+    - 3315457
 - category: Add New Roadway
   links:
   - A: 2625972
@@ -21,52 +21,52 @@ changes:
     bike_access: 0
     walk_access: 1
     ft: 99
-    cntype: 'PED'
+    cntype: PED
     lanes: 1
   - A: 3097285
     B: 5267161
-    model_link_id: 3500000
+    model_link_id: 3500001
     drive_access: 0
     bike_access: 0
     walk_access: 1
     ft: 99
-    cntype: 'PED'
+    cntype: PED
     lanes: 1
   - A: 3097286
     B: 5264239
-    model_link_id: 3500000
+    model_link_id: 3500002
     drive_access: 0
     bike_access: 0
     walk_access: 1
     ft: 99
-    cntype: 'PED'
+    cntype: PED
     lanes: 1
   - A: 5256617
     B: 2625972
-    model_link_id: 3500000
+    model_link_id: 3500003
     drive_access: 0
     bike_access: 0
     walk_access: 1
     ft: 99
-    cntype: 'PED'
+    cntype: PED
     lanes: 1
   - A: 5264239
     B: 3097286
-    model_link_id: 3500000
+    model_link_id: 3500004
     drive_access: 0
     bike_access: 0
     walk_access: 1
     ft: 99
-    cntype: 'PED'
+    cntype: PED
     lanes: 1
   - A: 5267161
     B: 3097285
-    model_link_id: 3500000
+    model_link_id: 3500005
     drive_access: 0
     bike_access: 0
     walk_access: 1
     ft: 99
-    cntype: 'PED'
+    cntype: PED
     lanes: 1
 - category: Roadway Property Change
   facility:
