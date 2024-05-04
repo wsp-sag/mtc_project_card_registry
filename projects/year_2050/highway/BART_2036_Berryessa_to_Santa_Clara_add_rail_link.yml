@@ -10,13 +10,13 @@ changes:
   - model_link_id: 2700140
     rail_only: 1
     transit_access: 1.0
-    A: 9550801
+    A: 2900023
     B: 2900026
   - model_link_id: 2700141
     rail_only: 1
     transit_access: 1.0
     A: 2900026
-    B: 9550801
+    B: 2900023
   - model_link_id: 2700142
     rail_only: 1
     transit_access: 1.0
