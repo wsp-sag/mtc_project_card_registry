@@ -1,0 +1,66 @@
+project: Year 2038 Express Lane on I-280 WB from Leland Ave to Magdalena Ave
+tags:
+- Year 2038
+dependencies: ''
+changes:
+- category: Parallel Managed lanes
+  facility:
+    link:
+    - model_link_id:
+      - 2159160
+      - 2021200
+      - 2142172
+      - 2019311
+      - 2016817
+      - 2061167
+      - 2036005
+      - 2141507
+      - 2021506
+      - 2117475
+      - 2093765
+      - 2056054
+      - 2139445
+      - 2127217
+      - 2166381
+      - 2003290
+      - 2212986
+      - 2170088
+      - 2051797
+  properties:
+  - property: lanes
+    set: 4
+    timeofday:
+    - time:
+      - '6:00'
+      - '10:00'
+      set: 3
+    - time:
+      - '15:00'
+      - '19:00'
+      set: 3
+  - property: ML_lanes
+    set: 0
+    timeofday:
+    - time:
+      - '6:00'
+      - '10:00'
+      set: 1
+    - time:
+      - '15:00'
+      - '19:00'
+      set: 1
+  - property: ML_useclass
+    set: 0
+    timeofday:
+    - time:
+      - '6:00'
+      - '10:00'
+      set: 4
+    - time:
+      - '15:00'
+      - '19:00'
+      set: 4
+  - property: ML_access
+    set: all
+  - property: ML_egress
+    set: all
