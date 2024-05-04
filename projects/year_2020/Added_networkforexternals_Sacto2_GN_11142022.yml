@@ -58,7 +58,7 @@ changes:
   links:
   - A: 3511186
     B: 3528089
-    model_link_id: 90000020
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -68,7 +68,7 @@ changes:
     lanes: 1
   - A: 3524919
     B: 5300152
-    model_link_id: 90000021
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -78,7 +78,7 @@ changes:
     lanes: 1
   - A: 3527595
     B: 3546979
-    model_link_id: 90000022
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -88,7 +88,7 @@ changes:
     lanes: 2
   - A: 3528089
     B: 3511186
-    model_link_id: 90000023
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -98,7 +98,7 @@ changes:
     lanes: 1
   - A: 3545295
     B: 5300156
-    model_link_id: 90000024
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -108,7 +108,7 @@ changes:
     lanes: 1
   - A: 3546979
     B: 3527595
-    model_link_id: 90000025
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -118,7 +118,7 @@ changes:
     lanes: 2
   - A: 3547284
     B: 5300152
-    model_link_id: 90000026
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -128,7 +128,7 @@ changes:
     lanes: 1
   - A: 3547287
     B: 5300151
-    model_link_id: 90000027
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -138,7 +138,7 @@ changes:
     lanes: 1
   - A: 5290249
     B: 5300156
-    model_link_id: 90000037
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -148,7 +148,7 @@ changes:
     lanes: 1
   - A: 5293556
     B: 5300152
-    model_link_id: 90000038
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -158,7 +158,7 @@ changes:
     lanes: 1
   - A: 5300150
     B: 5300151
-    model_link_id: 90000043
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -168,7 +168,7 @@ changes:
     lanes: 1
   - A: 5300151
     B: 3547287
-    model_link_id: 90000044
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -178,7 +178,7 @@ changes:
     lanes: 1
   - A: 5300151
     B: 5300150
-    model_link_id: 90000045
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -188,7 +188,7 @@ changes:
     lanes: 1
   - A: 5300152
     B: 3524919
-    model_link_id: 90000046
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -198,7 +198,7 @@ changes:
     lanes: 1
   - A: 5300152
     B: 3547284
-    model_link_id: 90000047
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -208,7 +208,7 @@ changes:
     lanes: 1
   - A: 5300152
     B: 5293556
-    model_link_id: 90000048
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -218,7 +218,7 @@ changes:
     lanes: 1
   - A: 5300152
     B: 5300153
-    model_link_id: 90000049
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -228,7 +228,7 @@ changes:
     lanes: 1
   - A: 5300153
     B: 5300152
-    model_link_id: 90000050
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -238,7 +238,7 @@ changes:
     lanes: 1
   - A: 5300153
     B: 5300154
-    model_link_id: 90000051
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -248,7 +248,7 @@ changes:
     lanes: 1
   - A: 5300154
     B: 5300153
-    model_link_id: 90000052
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -258,7 +258,7 @@ changes:
     lanes: 1
   - A: 5300154
     B: 5300155
-    model_link_id: 90000053
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -268,7 +268,7 @@ changes:
     lanes: 1
   - A: 5300155
     B: 5300154
-    model_link_id: 90000054
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -278,7 +278,7 @@ changes:
     lanes: 1
   - A: 5300155
     B: 5300156
-    model_link_id: 90000055
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -288,7 +288,7 @@ changes:
     lanes: 1
   - A: 5300156
     B: 3545295
-    model_link_id: 90000056
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -298,7 +298,7 @@ changes:
     lanes: 1
   - A: 5300156
     B: 5290249
-    model_link_id: 90000057
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -308,7 +308,7 @@ changes:
     lanes: 1
   - A: 5300156
     B: 5300155
-    model_link_id: 90000058
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -318,7 +318,7 @@ changes:
     lanes: 1
   - A: 3043615
     B: 5300150
-    model_link_id: 90000019
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 0
     walk_access: 0
@@ -328,7 +328,7 @@ changes:
     lanes: 1
   - A: 5300150
     B: 3004598
-    model_link_id: 90000042
+    model_link_id: 8100000
     drive_access: 1
     bike_access: 0
     walk_access: 0
