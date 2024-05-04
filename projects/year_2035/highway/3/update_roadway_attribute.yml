@@ -1,0 +1,180 @@
+project:  Connect Zone Centroids to Filtered Network
+tags:
+- Year 2030
+dependencies: ''
+changes:
+- category: Roadway Property Change
+  facility:
+    link:
+    - model_link_id:
+      - 4200599
+      - 4198278
+      - 4058105
+      - 4188591
+      - 4061375
+      - 4216484
+      - 4196076
+      - 4051163
+      - 4033281
+      - 4019258
+      - 4139655
+      - 4082265
+      - 4179054
+      - 4045143
+      - 4010011
+      - 4203579
+      - 4009100
+      - 4150546
+      - 4110229
+      - 4228480
+      - 4228983
+      - 4066118
+      - 90000093
+      - 90000094
+      - 90000087
+      - 90000088
+      - 90000089
+      - 90000090
+      - 90000091
+      - 90000092
+  properties:
+  - property: ft
+    set: 6
+  - property: bike_access
+    set: 1
+  - property: drive_access
+    set: 1
+  - property: walk_access
+    set: 1
+  - property: has_transit
+    set: 1
+- category: Add New Roadway
+  links:
+  - A: 3025994
+    B: 3008481
+    bike_access: 1
+    drive_access: 1
+    roadway: motorway
+    shstGeometryId: '0'
+    walk_access: 1
+    county: Contra Costa
+    model_link_id: 4999999
+    rail_only: 0
+    ft: 7
+    assignable: 1
+    nmt2010: 0
+    nmt2020: 0
+    tollbooth: 0
+    bus_only: 0
+    managed: 0
+    segment_id: 0
+    tollseg: 0
+    distance: 0.556036
+    cntype: TANA
+    lanes_EA: 1
+    lanes_AM: 1
+    lanes_MD: 1
+    lanes_PM: 1
+    lanes_EV: 1
+    useclass_EA: 0
+    useclass_AM: 0
+    useclass_MD: 0
+    useclass_PM: 0
+    useclass_EV: 0
+    has_transit: 1
+  - A: 3008481
+    B: 3025994
+    bike_access: 1
+    drive_access: 1
+    roadway: motorway
+    shstGeometryId: '0'
+    walk_access: 1
+    county: Contra Costa
+    model_link_id: 4999998
+    rail_only: 0
+    ft: 7
+    assignable: 1
+    nmt2010: 0
+    nmt2020: 0
+    tollbooth: 0
+    bus_only: 0
+    managed: 0
+    segment_id: 0
+    tollseg: 0
+    distance: 0.556036
+    cntype: TANA
+    lanes_EA: 1
+    lanes_AM: 1
+    lanes_MD: 1
+    lanes_PM: 1
+    lanes_EV: 1
+    useclass_EA: 0
+    useclass_AM: 0
+    useclass_MD: 0
+    useclass_PM: 0
+    useclass_EV: 0
+    has_transit: 1
+  - A: 401828
+    B: 3060011
+    bike_access: 1
+    drive_access: 1
+    roadway: motorway
+    shstGeometryId: '0'
+    walk_access: 1
+    county: Contra Costa
+    model_link_id: 4999997
+    rail_only: 0
+    ft: 7
+    assignable: 1
+    nmt2010: 0
+    nmt2020: 0
+    tollbooth: 0
+    bus_only: 0
+    managed: 0
+    segment_id: 0
+    tollseg: 0
+    distance: 0.556036
+    cntype: TANA
+    lanes_EA: 1
+    lanes_AM: 1
+    lanes_MD: 1
+    lanes_PM: 1
+    lanes_EV: 1
+    useclass_EA: 0
+    useclass_AM: 0
+    useclass_MD: 0
+    useclass_PM: 0
+    useclass_EV: 0
+    has_transit: 1
+  - A: 3060011
+    B: 401828
+    bike_access: 1
+    drive_access: 1
+    roadway: motorway
+    shstGeometryId: '0'
+    walk_access: 1
+    county: Contra Costa
+    model_link_id: 4999996
+    rail_only: 0
+    ft: 7
+    assignable: 1
+    nmt2010: 0
+    nmt2020: 0
+    tollbooth: 0
+    bus_only: 0
+    managed: 0
+    segment_id: 0
+    tollseg: 0
+    distance: 0.556036
+    cntype: TANA
+    lanes_EA: 1
+    lanes_AM: 1
+    lanes_MD: 1
+    lanes_PM: 1
+    lanes_EV: 1
+    useclass_EA: 0
+    useclass_AM: 0
+    useclass_MD: 0
+    useclass_PM: 0
+    useclass_EV: 0
+    has_transit: 1
