@@ -5,7 +5,7 @@ dependencies: ''
 changes:
 - category: Add New Roadway
   links:
-  - model_link_id: 2700000
+  - model_link_id: 2700148
     rail_only: 1
     transit_access: 1
     drive_access: 1
@@ -14,7 +14,7 @@ changes:
     lanes: 1
     A: 3047176
     B: 3045696
-  - model_link_id: 2700000
+  - model_link_id: 2700149
     rail_only: 1
     transit_access: 1
     drive_access: 1
