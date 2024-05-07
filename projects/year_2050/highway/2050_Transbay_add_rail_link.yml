@@ -1,39 +1,38 @@
-project: 2050_Transbay_add_rail_link                 
+project: 2050_Transbay_add_rail_link
 tags:
-- 'add transit link'                                
-- 'year 2050'                                       
+- add transit link
+- year 2050
 dependencies: ''
 changes:
 - category: Add New Roadway
   links:
-  - model_link_id: 2700000                                
+  - model_link_id: 2700150
     rail_only: 1
     transit_access: 1.0
-    A: 1003587                                          
+    A: 1003587
     B: 2625965
-  - model_link_id: 2700000                                
+  - model_link_id: 2700151
     rail_only: 1
     transit_access: 1.0
-    A: 2625965                                         
-    B: 1003587 
-  - model_link_id: 2700000                                
+    A: 2625965
+    B: 1003587
+  - model_link_id: 2700152
     rail_only: 1
     transit_access: 1.0
-    A: 2508138       #ardenwood station                                           
+    A: 2508138
     B: 2192823
-  - model_link_id: 2700000                                
+  - model_link_id: 2700153
     rail_only: 1
     transit_access: 1.0
-    A: 2192823                                         
-    B: 2508138 
-  - model_link_id: 2700000                                
+    A: 2192823
+    B: 2508138
+  - model_link_id: 2700154
     rail_only: 1
     transit_access: 1.0
-    A: 2508138       #ardenwood station                                           
+    A: 2508138
     B: 2625966
-  - model_link_id: 2700000                                
+  - model_link_id: 2700155
     rail_only: 1
     transit_access: 1.0
-    A: 2625966                                         
-    B: 2508138 
-valid: false                                             
+    A: 2625966
+    B: 2508138
