@@ -17,56 +17,56 @@ changes:
   - A: 2625972
     B: 5256617
     model_link_id: 3500000
-    drive_access: 0
-    bike_access: 0
+    drive_access: 1
+    bike_access: 1
     walk_access: 1
-    ft: 99
-    cntype: PED
+    ft: 7
+    cntype: 'TANA'
     lanes: 1
   - A: 3097285
     B: 5267161
     model_link_id: 3500001
-    drive_access: 0
-    bike_access: 0
+    drive_access: 1
+    bike_access: 1
     walk_access: 1
-    ft: 99
-    cntype: PED
+    ft: 7
+    cntype: 'TANA'
     lanes: 1
   - A: 3097286
     B: 5264239
     model_link_id: 3500002
-    drive_access: 0
-    bike_access: 0
+    drive_access: 1
+    bike_access: 1
     walk_access: 1
-    ft: 99
-    cntype: PED
+    ft: 7
+    cntype: 'TANA'
     lanes: 1
   - A: 5256617
     B: 2625972
     model_link_id: 3500003
-    drive_access: 0
-    bike_access: 0
+    drive_access: 1
+    bike_access: 1
     walk_access: 1
-    ft: 99
-    cntype: PED
+    ft: 7
+    cntype: 'TANA'
     lanes: 1
   - A: 5264239
     B: 3097286
     model_link_id: 3500004
-    drive_access: 0
-    bike_access: 0
+    drive_access: 1
+    bike_access: 1
     walk_access: 1
-    ft: 99
-    cntype: PED
+    ft: 7
+    cntype: 'TANA'
     lanes: 1
   - A: 5267161
     B: 3097285
     model_link_id: 3500005
-    drive_access: 0
-    bike_access: 0
+    drive_access: 1
+    bike_access: 1
     walk_access: 1
-    ft: 99
-    cntype: PED
+    ft: 7
+    cntype: 'TANA'
     lanes: 1
 - category: Roadway Property Change
   facility:
