@@ -11,7 +11,7 @@ changes:
     drive_access: 1
     name: North Parkway Extension
     roadway: motorway
-    shstGeometryId: null
+    shstGeometryId:
     walk_access: 1
     county: Alameda
     model_link_id: 4900006
@@ -44,7 +44,7 @@ changes:
     drive_access: 1
     name: North Parkway Extension
     roadway: motorway
-    shstGeometryId: null
+    shstGeometryId:
     walk_access: 1
     county: Alameda
     model_link_id: 4900007
