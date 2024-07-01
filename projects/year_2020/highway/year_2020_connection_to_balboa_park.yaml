@@ -1,4 +1,4 @@
-project:  Connection to Balboa Park BART stop
+project: Connection to Balboa Park BART stop
 tags:
 - Year 2020
 dependencies: ''
@@ -12,7 +12,7 @@ changes:
     bike_access: 1
     drive_access: 0
     county: San Francisco
-    model_link_id: 133493
+    model_link_id: 133512
     assignable: 1
     bus_only: 0
     ft: 7
@@ -23,7 +23,7 @@ changes:
     bike_access: 1
     drive_access: 0
     county: San Francisco
-    model_link_id: 133493
+    model_link_id: 133513
     assignable: 1
     bus_only: 0
     ft: 7
@@ -34,7 +34,7 @@ changes:
     bike_access: 1
     drive_access: 0
     county: San Francisco
-    model_link_id: 133493
+    model_link_id: 133514
     assignable: 1
     bus_only: 0
     ft: 7
@@ -45,7 +45,7 @@ changes:
     bike_access: 1
     drive_access: 0
     county: San Francisco
-    model_link_id: 133493
+    model_link_id: 133515
     assignable: 1
     bus_only: 0
     ft: 7
