@@ -1,4 +1,5 @@
-project: SR262 Interchange improvements Step 2 (Create grade-separated SR 262 between Warmsprings blvd and Mohave Dr), RTP ID 21-T06-046
+project: SR262 Interchange improvements Step 2 (Create grade-separated SR 262 between
+  Warmsprings blvd and Mohave Dr), RTP ID 21-T06-046
 tags:
 - Year 2050
 dependencies: ''
@@ -6,32 +7,32 @@ changes:
 - category: Roadway Deletion
   links:
     model_link_id:
-      - 3087442
-      - 3013589
+    - 3087442
+    - 3013589
 - category: Add New Roadway
   nodes:
   - model_node_id: 2626021
     drive_access: 1
     bike_access: 1
-    walk_access: 1 
+    walk_access: 1
     X: -121.92661
     Y: 37.49212
   - model_node_id: 2626022
     drive_access: 1
     bike_access: 1
-    walk_access: 1 
+    walk_access: 1
     X: -121.92676
     Y: 37.49221
   - model_node_id: 2626026
     drive_access: 1
     bike_access: 1
-    walk_access: 1 
+    walk_access: 1
     X: -121.93000295
     Y: 37.48967666
   links:
   - A: 2513388
     B: 2626021
-    model_link_id: 3443532
+    model_link_id: 3443593
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -39,7 +40,7 @@ changes:
     lanes: 2
   - A: 2626022
     B: 2626026
-    model_link_id: 3443532
+    model_link_id: 3443594
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -47,7 +48,7 @@ changes:
     lanes: 2
   - A: 2626026
     B: 2577006
-    model_link_id: 3443532
+    model_link_id: 3443595
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -63,4 +64,3 @@ changes:
     set: 3
   - property: ft
     set: 1
-
