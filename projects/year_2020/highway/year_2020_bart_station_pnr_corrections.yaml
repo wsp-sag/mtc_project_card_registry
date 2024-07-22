@@ -1,18 +1,17 @@
-project:  PNR Connections to BART Stations
+project: PNR Connections to BART Stations
 tags:
 - Year 2020
 dependencies: ''
 changes:
 - category: Add New Roadway
   links:
-  # Berryessa/North San Jose
   - A: 2018745
     B: 9550801
     lanes: 1
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660022
     assignable: 1
     bus_only: 0
     ft: 7
@@ -22,7 +21,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660023
     assignable: 1
     bus_only: 0
     ft: 7
@@ -32,7 +31,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 0
-    model_link_id: 2660008
+    model_link_id: 2660024
     assignable: 1
     bus_only: 0
     ft: 8
@@ -42,18 +41,17 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 0
-    model_link_id: 2660008
+    model_link_id: 2660025
     assignable: 1
     bus_only: 0
     ft: 8
-  # Milipitas San Jose
   - A: 2008203
     B: 9550800
     lanes: 1
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660026
     assignable: 1
     bus_only: 0
     ft: 7
@@ -63,7 +61,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660027
     assignable: 1
     bus_only: 0
     ft: 7
@@ -73,7 +71,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 0
-    model_link_id: 2660008
+    model_link_id: 2660028
     assignable: 1
     bus_only: 0
     ft: 8
@@ -83,18 +81,17 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 0
-    model_link_id: 2660008
+    model_link_id: 2660029
     assignable: 1
     bus_only: 0
     ft: 8
-  # Fremont Station
   - A: 5300049
     B: 2625947
     lanes: 1
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660030
     assignable: 1
     bus_only: 0
     ft: 7
@@ -104,18 +101,17 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660031
     assignable: 1
     bus_only: 0
     ft: 7
-  # Union Station
   - A: 2625948
     B: 5300050
     lanes: 1
     walk_access: 1
     bike_access: 1
     drive_access: 0
-    model_link_id: 2660008
+    model_link_id: 2660032
     assignable: 1
     bus_only: 0
     ft: 8
@@ -125,7 +121,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 0
-    model_link_id: 2660008
+    model_link_id: 2660033
     assignable: 1
     bus_only: 0
     ft: 8
@@ -135,7 +131,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 0
-    model_link_id: 2660008
+    model_link_id: 2660034
     assignable: 1
     bus_only: 0
     ft: 8
@@ -145,18 +141,17 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 0
-    model_link_id: 2660008
+    model_link_id: 2660035
     assignable: 1
     bus_only: 0
     ft: 8
-  # South Hayward Station
   - A: 5300051
     B: 2625949
     lanes: 1
     walk_access: 1
     bike_access: 1
     drive_access: 0
-    model_link_id: 2660008
+    model_link_id: 2660036
     assignable: 1
     bus_only: 0
     ft: 8
@@ -166,18 +161,17 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 0
-    model_link_id: 2660008
+    model_link_id: 2660037
     assignable: 1
     bus_only: 0
     ft: 8
-  # Dublin/Pleasanton Station
   - A: 2578390
     B: 5300034
     lanes: 1
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660038
     assignable: 1
     bus_only: 0
     ft: 8
@@ -187,7 +181,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660039
     assignable: 1
     bus_only: 0
     ft: 8
@@ -197,7 +191,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660040
     assignable: 1
     bus_only: 0
     ft: 8
@@ -207,7 +201,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660041
     assignable: 1
     bus_only: 0
     ft: 8
@@ -217,7 +211,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660042
     assignable: 1
     bus_only: 0
     ft: 8
@@ -227,7 +221,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660043
     assignable: 1
     bus_only: 0
     ft: 8
@@ -237,7 +231,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660044
     assignable: 1
     bus_only: 0
     ft: 8
@@ -247,7 +241,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660045
     assignable: 1
     bus_only: 0
     ft: 8
@@ -257,7 +251,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660046
     assignable: 1
     bus_only: 0
     ft: 8
@@ -267,7 +261,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660047
     assignable: 1
     bus_only: 0
     ft: 8
@@ -277,7 +271,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660048
     assignable: 1
     bus_only: 0
     ft: 8
@@ -287,7 +281,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660049
     assignable: 1
     bus_only: 0
     ft: 8
@@ -297,7 +291,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660050
     assignable: 1
     bus_only: 0
     ft: 8
@@ -307,7 +301,7 @@ changes:
     walk_access: 1
     bike_access: 1
     drive_access: 1
-    model_link_id: 2660008
+    model_link_id: 2660051
     assignable: 1
     bus_only: 0
     ft: 8
