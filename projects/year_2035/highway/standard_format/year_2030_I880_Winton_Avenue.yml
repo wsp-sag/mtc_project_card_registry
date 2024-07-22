@@ -1,4 +1,5 @@
-project: I880 Winton Avenue Interchange Improvements (Widening of the SB, NB on-ramps to add a HOV bypass lane), RTP ID 21-T06-024
+project: I880 Winton Avenue Interchange Improvements (Widening of the SB, NB on-ramps
+  to add a HOV bypass lane), RTP ID 21-T06-024
 tags:
 - Year 2030
 dependencies: ''
@@ -22,7 +23,7 @@ changes:
     set: 2
 - category: Add New Roadway
   links:
-  - model_link_id: 3443532
+  - model_link_id: 3443569
     rail_only: 1
     transit_access: 1
     drive_access: 1
@@ -30,7 +31,7 @@ changes:
     useclass: 4
     A: 2503702
     B: 2524651
-  - model_link_id: 3443532
+  - model_link_id: 3443570
     rail_only: 1
     transit_access: 1
     drive_access: 1
@@ -38,7 +39,7 @@ changes:
     useclass: 4
     A: 2563631
     B: 2564348
-  - model_link_id: 3443532
+  - model_link_id: 3443571
     rail_only: 1
     transit_access: 1
     drive_access: 1
@@ -46,7 +47,7 @@ changes:
     useclass: 4
     A: 2512444
     B: 2564348
-  - model_link_id: 3443532
+  - model_link_id: 3443572
     rail_only: 1
     transit_access: 1
     drive_access: 1

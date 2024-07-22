@@ -7,7 +7,7 @@ changes:
   links:
   - A: 2614798
     B: 2566956
-    model_link_id: 3443532
+    model_link_id: 3443548
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -15,7 +15,7 @@ changes:
     lanes: 1
   - A: 2566956
     B: 2614798
-    model_link_id: 3443532
+    model_link_id: 3443549
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -23,7 +23,7 @@ changes:
     lanes: 1
   - A: 2506647
     B: 2566956
-    model_link_id: 3443532
+    model_link_id: 3443550
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -31,7 +31,7 @@ changes:
     lanes: 1
   - A: 2566956
     B: 2506647
-    model_link_id: 3443532
+    model_link_id: 3443551
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -39,7 +39,7 @@ changes:
     lanes: 1
   - A: 2509427
     B: 2566956
-    model_link_id: 3443532
+    model_link_id: 3443552
     drive_access: 1
     bike_access: 1
     walk_access: 1
@@ -48,9 +48,8 @@ changes:
 - category: Roadway Deletion
   links:
     model_link_id:
-      - 3055895
-      - 3296334
-      - 3013169
-      - 3074139
-      - 3100955
-
+    - 3055895
+    - 3296334
+    - 3013169
+    - 3074139
+    - 3100955
